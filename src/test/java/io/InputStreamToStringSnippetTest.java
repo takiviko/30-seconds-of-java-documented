@@ -27,11 +27,11 @@ package io;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertNotEquals;
 
-import java.io.File;
 import java.io.FileInputStream;
 import java.io.IOException;
 import java.io.InputStream;
 import org.junit.jupiter.api.Test;
+import takiviko.github.io.io.InputStreamToStringSnippet;
 
 /*
  * Tests for 30 Seconds of Java code library

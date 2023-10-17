@@ -27,7 +27,8 @@ package array;
 import static org.junit.jupiter.api.Assertions.assertEquals;
  
 import org.junit.jupiter.api.Test;
- 
+import takiviko.github.io.array.FindMinSnippet;
+
 /*
   * Tests for 30 Seconds of Java code library
   *

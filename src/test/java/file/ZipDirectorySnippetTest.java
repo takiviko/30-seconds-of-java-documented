@@ -34,6 +34,7 @@ import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.util.zip.ZipFile;
 import org.junit.jupiter.api.Test;
+import takiviko.github.io.file.ZipDirectorySnippet;
 
 /*
  * Tests for 30 Seconds of Java code library

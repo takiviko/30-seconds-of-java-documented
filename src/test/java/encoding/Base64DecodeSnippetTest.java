@@ -27,6 +27,7 @@ package encoding;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 import org.junit.jupiter.api.Test;
+import takiviko.github.io.encoding.Base64DecodeSnippet;
 
 /*
  * Tests for 30 Seconds of Java code library

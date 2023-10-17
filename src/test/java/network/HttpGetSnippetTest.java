@@ -27,6 +27,7 @@ package network;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 import org.junit.jupiter.api.Test;
+import takiviko.github.io.network.HttpGetSnippet;
 
 /*
  * Tests for 30 Seconds of Java code library

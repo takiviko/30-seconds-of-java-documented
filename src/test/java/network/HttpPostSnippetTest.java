@@ -30,6 +30,7 @@ import static org.hamcrest.Matchers.containsString;
 import java.io.IOException;
 import java.util.HashMap;
 import org.junit.jupiter.api.Test;
+import takiviko.github.io.network.HttpPostSnippet;
 
 /*
  * Tests for 30 Seconds of Java code library

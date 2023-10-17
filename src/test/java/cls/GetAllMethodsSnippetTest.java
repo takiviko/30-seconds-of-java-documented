@@ -27,6 +27,7 @@ package cls;
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
 import org.junit.jupiter.api.Test;
+import takiviko.github.io.cls.GetAllMethodsSnippet;
 
 /*
  * Tests for 30 Seconds of Java code library

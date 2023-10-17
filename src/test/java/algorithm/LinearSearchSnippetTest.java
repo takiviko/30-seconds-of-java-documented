@@ -27,6 +27,7 @@ package algorithm;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 import org.junit.jupiter.api.Test;
+import takiviko.github.io.algorithm.LinearSearchSnippet;
 
 /*
  * Tests for 30 Seconds of Java code library

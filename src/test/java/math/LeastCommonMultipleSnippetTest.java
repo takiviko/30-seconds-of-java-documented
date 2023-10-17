@@ -27,7 +27,8 @@ package math;
 import static org.junit.jupiter.api.Assertions.assertEquals;
  
 import org.junit.jupiter.api.Test;
- 
+import takiviko.github.io.math.LeastCommonMultipleSnippet;
+
 /*
  * Tests for 30 Seconds of Java code library
  *

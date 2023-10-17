@@ -28,6 +28,7 @@ import static org.junit.jupiter.api.Assertions.assertFalse;
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
 import org.junit.jupiter.api.Test;
+import takiviko.github.io.math.PrimeNumberSnippet;
 
 /*
  * Tests for 30 Seconds of Java code library

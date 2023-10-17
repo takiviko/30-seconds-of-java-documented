@@ -30,6 +30,7 @@ import static org.junit.jupiter.api.Assertions.assertTrue;
 
 import java.util.Arrays;
 import org.junit.jupiter.api.Test;
+import takiviko.github.io.array.AllEqualSnippet;
 
 /*
  * Tests for 30 Seconds of Java code library

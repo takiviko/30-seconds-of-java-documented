@@ -29,6 +29,7 @@ import static org.junit.jupiter.api.Assertions.assertThrows;
 
 import java.io.IOException;
 import org.junit.jupiter.api.Test;
+import takiviko.github.io.file.ReadLinesSnippet;
 
 /*
  * Tests for 30 Seconds of Java code library

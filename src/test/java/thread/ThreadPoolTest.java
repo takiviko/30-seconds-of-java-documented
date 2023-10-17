@@ -29,6 +29,7 @@ import static org.junit.jupiter.api.Assertions.assertNotEquals;
 
 import java.util.concurrent.ThreadPoolExecutor;
 import org.junit.jupiter.api.Test;
+import takiviko.github.io.thread.ThreadPool;
 
 /*
  * Tests for 30 Seconds of Java code library

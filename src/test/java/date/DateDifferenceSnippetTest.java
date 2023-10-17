@@ -28,6 +28,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 
 import java.time.LocalDate;
 import org.junit.jupiter.api.Test;
+import takiviko.github.io.date.DateDifferenceSnippet;
 
 /*
  * Tests for 30 Seconds of Java code library
